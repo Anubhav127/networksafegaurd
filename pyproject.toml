@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "networksafegaurd"
+version = "0.0.1"
+authors = [
+    { name = "deadcoder", email = "test@gmail.com" },
+]
+requires-python = ">=3.10"
+dynamic = ["dependencies"]
+
+[tool.setuptools]
+packages = { find = {} }
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
