@@ -4,3 +4,6 @@ numpy
 pymongo>=4.0.0
 certifi
 scikit-learn
+pyyaml
+dill
+#pickle5
