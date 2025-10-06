@@ -8,3 +8,5 @@ pyyaml
 dill
 mlflow<3
 dagshub
+fastapi
+uvicorn
