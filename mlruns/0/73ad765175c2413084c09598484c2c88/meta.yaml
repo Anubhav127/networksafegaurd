@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ai/NetworkSecurity/mlruns/0/73ad765175c2413084c09598484c2c88/artifacts
+end_time: 1759787751578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73ad765175c2413084c09598484c2c88
+run_name: spiffy-moth-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759787747846
+status: 3
+tags: []
+user_id: anuve

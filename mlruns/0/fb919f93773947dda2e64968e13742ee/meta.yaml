@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ai/NetworkSecurity/mlruns/0/fb919f93773947dda2e64968e13742ee/artifacts
+end_time: 1759787747809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb919f93773947dda2e64968e13742ee
+run_name: selective-ray-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759787742203
+status: 3
+tags: []
+user_id: anuve
